@@ -1,4 +1,4 @@
-# Hackathon Backend
+# Fast API template
 
 1. Pip install
 `pip install -r requirements.txt`
